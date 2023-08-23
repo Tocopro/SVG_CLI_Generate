@@ -34,12 +34,14 @@ design tools.
 
 ## Live Demonstration
 
+[!Short Demo Video of the Apps Operation](./SVG%20Generation%20Video%20(1).gif)
+
 
 ## ScreenShots
 
-Screenshot of the Index.js Code SVG_generator_CLI.png
+[!ScreenShots of the Main Index page Code for the App](./index_code_screenshot.png)
 
-Screenshot of the Terminal index_code_screenshot.png
+[!ScreenShots of the Terminal for CLI](./SVG_generator_CLI.png)
 
 
 
