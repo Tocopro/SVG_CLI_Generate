@@ -37,6 +37,12 @@ design tools.
 
 ## ScreenShots
 
+Screenshot of the Index.js Code SVG_generator_CLI.png
+
+Screenshot of the Terminal index_code_screenshot.png
+
+
+
 
 
 ## Technologies
